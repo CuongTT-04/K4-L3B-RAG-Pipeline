@@ -40,6 +40,8 @@ data/_tmp_pdf/
 
 # Temp / cache
 .pytest_cache/
+chroma_db/
+tmp/
 *.tmp
 *.log
 pageindex_doc_ids.json

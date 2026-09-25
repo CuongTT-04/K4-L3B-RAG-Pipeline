@@ -1,0 +1,91 @@
+---
+title: "AI talent, skills and literacy | Shaping Europe’s digital future"
+source: "article_02.json"
+doc_type: news
+url: "https://digital-strategy.ec.europa.eu/en/policies/ai-talent-skills-and-literacy"
+---
+
+Crawled: 2026-09-25T05:23:19.182008+00:00
+
+-
+AI talent, skills and literacy | Shaping Europe’s digital future
+Skip to main content
+Previous items Next items Home
+- Policies
+- Activities
+- News
+- Library
+- Funding
+- Calendar
+- Consultations
+- AI Office
+# AI talent, skills and literacy
+The Commission aims to increase the number of AI experts by training and attracting more researchers and professionals, and by improving AI skills and literacy of workers and the general population.
+## AI literacy in the AI Act
+Article 4 of the AI Act entered into application on 2 February 2025, and it was later amended via the Digital Omnibus on AI that entered into force in mid-July 2026.
+AI Literacy is an important policy objective of the Commission and an obligation under the AI Act for all providers and deployers of AI. It requires providers and deployers of AI systems to take measures to support the development of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used. This does not imply that a certain level of AI literacy of any individual is required. The Commission and the Member States will have to support the efforts of providers and deployers, in particular when they are SMEs.
+The amendments to the provision ensure its facilitated compliance:
+- AI literacy remains an obligation for providers and deployers of AI systems, but no specific – or ‘sufficient’ - level is mandated (Article 4(1));
+- the European Commission and Member States will need to continue supporting providers and deployers’ efforts, including through the publication of practical examples (Article 4(2));
+- The AI Board should adopt recommendations on Article 4 to support the Commission and Member States in the promotion of AI literacy, taking into account existing competence frameworks and setting out common objectives (Article 4(3)).
+The supervision and enforcement of article 4 is in the remit of the national market surveillance authorities , which start supervising and enforcing the rules as of 2 August 2026.
+Meanwhile, the Commission continues its ongoing activities to support AI literacy (see below) and work closely with Member States in the AI Board to facilitate providers’ and deployers’ efforts, including by working on recommendations mentioned in Article 4(3).
+Ongoing activities in support of AI literacy under the AI Act
+The AI Office published questions & answers on AI literacy containing more information on the requirements and enforcement of article 4 and launched a repository of AI literacy practices to support learning and exchange among providers and deployers and the wider public.
+The repository currently provides examples of more than 40 AI literacy initiatives implemented by companies and the public sector and gathered in two moments:
+- The first batch of practices was gathered through a survey made to AI Pact pledgers between December 2024 and February 2025. To showcase the repository and the activities related to article 4 of the AI Act, the AI Office also organised an AI Pact webinar on AI literacy .
+- A second survey was open between April and June 2025 to include further practices from any interested organisation. This survey might be open again in the future to regularly collect examples.
+The survey is regularly open to update and collect further examples.
+The repository was revamped to improve the searchability of practices and a dedicated report was written in cooperation with the Erasmus+ funded project Artificial Intelligence Skills Alliance (ARISA) .
+While replicating the practices collected in this living repository does not grant presumption of compliance with Article 4, the repository aims to encourage learning and exchange among providers and deployers of AI systems. The Commission will take these practices into consideration to identify examples of compliance to be published on the Single Information Platform , as per Article 4(2).
+## Initiatives supporting AI talent, skills and literacy
+On 9 April 2025, the Commission published the AI Continent Action Plan to make Europe a global leader in AI.
+To expand the EU's pool of AI specialists, the Action Plan outlines several initiatives. These aim to:
+- Train the next generation of AI experts based in the EU by increasing the overall offer of European bachelor's and master's degrees, and PhDs in AI but also by launching the AI Skills Academy . The Academy will offer education and training programmes on AI and in particular generative AI. It will upskill and reskill students and professionals in key sectors and develop a pilot generative AI-focused degree. This will enable top-level experts in generative AI to educate and train the AI Skills Academy’s students, while advancing their own research in the field. The Academy will also pilot an AI apprenticeship programme and develop ‘scholarship’ and ‘returnship’ schemes to attract more women to the field of AI. In the future, the Academy will serve as a hub gathering AI trainings per sector and possibly job profiles from other instruments of the European AI Innovation Ecosystem .
+- Incentivise European talent to stay and return to the EU by supporting the development of AI fellowship schemes . These schemes will enable highly skilled EU and non-EU PhD candidates as well as young professionals living outside the EU to work in EU-based entities.
+- Attract and retain skilled AI talent from non-EU countries (including researchers) through the Talent Pool initiative, the Multipurpose Legal Gateway Offices, the Talent Partnerships and the Marie Skłodowska-Curie Action ‘ MSCA Choose Europe ’ . The latter action will co-fund recruitment programmes to attract excellent international AI researchers, enabling universities and research organisations to link their MSCA grants to long-term prospects within the institution including, for example, competitions for permanent positions.
+To further support upskilling and reskilling of workers, the Action Plan focuses on the role of European Digital Innovation Hubs (EDIHs), which will increase skills and training services on AI.
+To increase the EU citizen's understanding of AI, the Action Plan underlines the importance of raising awareness on AI literacy and fostering dialogue on AI for all , including through the initiatives started in the context of the implementation of article 4 of the AI Act.
+In October 2025, the Commission published the Apply AI Strategy to support the adoption and integration of AI in key strategic sectors (e.g. healthcare, mobility, cultural, creative and media) and the public sector.
+Building on the ambitious actions of the AI Continent Action Plan , the Apply AI Strategy follows a stakeholder-driven approach , proposing sector-specific flagships . The Strategy also introduces supporting actions to address cross-sectorial challenges and needs, including 3 priorities related to the workforce.
+### 1 - AI literate workers for all sectors
+With the growing integration of AI in the workplace, it is important to ensure a responsible and beneficial use of AI by all workers. To this end, the strategy promotes a solid AI literacy for each sector and targeted actions. The Commission will:
+- Provide access to AI literacy trainings tailored to sectors and job profiles . The AI Skills Academy will be a hub, aggregating courses from other EU-funded sectoral initiatives, such as the European Digital Innovation Hubs , AI Factories , the EIT's Knowledge and Innovation Communities , Interoperable Europe Academy .
+- Engage industry partners in AI upskilling and reskilling efforts, including through the Pact for Skills . It will also deploy the Skills Guarantee , announced in the Union of Skills , for workers in sectors undergoing restructuring or at risk of displacement.
+The Commission also encourages the practical use and adoption of competences stemming from frameworks such as the Digital Competence Framework and the AI Literacy Framework for Primary and Secondary Education .
+### 2 - Sectoral AI experts for more digitally intense sectors
+For more digital-intense sectors (such as mobility, energy, environment, and media), the Commission will invest to create sectoral AI experts and brilliant entrepreneurs through:
+- Educational programmes (“AI for business”) that will train multidisciplinary profiles able to develop AI applications for given sectors (e.g. AI engineers specialised in the energy sector);
+- An "AI Entrepreneurs Lab" that will pair high-potential AI graduates with experienced mentors from AI companies, providing opportunities for knowledge sharing, networking, and incubating new business ideas and partnerships.
+### 3 - Active monitoring of the impact of AI on the labour market
+The Commission will monitor the impact of AI on the labour market taking into account potential differences across demographic groups, sectors, and regions. The goal is to anticipate market needs, spot potential disruptions and support the development of appropriate and inclusive policies - these include promoting skill transition and addressing structural inequalities.
+On March 2025, the Commission published the Union of Skills to support the development of our Union's human capital and strengthen the EU competitiveness. The Communication focuses on four workstreams:
+- building skills for life through a solid education foundation
+- upskill and reskill to ensure future-oriented skill
+- circulate and allocate skills to unlock the full potential of the single market
+- attract and retain skills from third countries to address skills shortages and develop top talent in Europe
+The Union of Skills Communication is accompanied by an Action Plan on Basic Skills and a STEM Education Strategic Plan . These initiatives aim to improve skills in science, technology, engineering, and maths, promote STEM careers, attract more girls and women, and boost preparedness in the face of digital and clean-tech transitions. The Union of Skills Communication also announced a 2030 Roadmap on the future of digital education and skills and an initiative on AI in Education. The latter which will support the development of AI literacy for primary and secondary education and foster the strategic and ethical uptake of AI in education. This includes support and capacity building for teachers and education institutions.
+Other policy initiatives:
+- Digital skills initiatives
+- Digital Education Action Plan , including its Action 6 - European Education Area
+- Digital Competence Framework for Citizens (DigComp)
+- Media literacy initiatives
+- AI Literacy Framework for primary and secondary schools Living repository to foster learning and exchange on AI literacy | Shaping Europe’s digital future
+#### Quick Links
+Repository of AI literacy practices
+AI Literacy - Questions & Answers
+AI Continent Action Plan
+Apply AI Strategy
+## Related Content
+### Big Picture
+AI Act
+The AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.
+-
+Repository of AI literacy practices
+The Commission launched a repository of AI literacy practices, collecting more than 40 initiatives...
+### Other
+AI Literacy - Questions & Answers
+Article 4 of the AI Act requires providers and deployers of AI systems to ensure a sufficient level...
+#### Last update
+27 July 2026
+Print as PDF

@@ -1,0 +1,42 @@
+{
+  "ai_system_definition_guidelines.pdf": {
+    "document_id": "legal/ai_system_definition_guidelines.md",
+    "path": "legal/ai_system_definition_guidelines.md",
+    "url": "https://ec.europa.eu/newsroom/dae/redirection/document/112455"
+  },
+  "gpai_code_copyright.pdf": {
+    "document_id": "legal/gpai_code_copyright.md",
+    "path": "legal/gpai_code_copyright.md",
+    "url": "https://ec.europa.eu/newsroom/dae/redirection/document/118115"
+  },
+  "gpai_code_transparency.pdf": {
+    "document_id": "legal/gpai_code_transparency.md",
+    "path": "legal/gpai_code_transparency.md",
+    "url": "https://ec.europa.eu/newsroom/dae/redirection/document/118120"
+  },
+  "article_01.json": {
+    "document_id": "news/article_01.md",
+    "path": "news/article_01.md",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+  },
+  "article_02.json": {
+    "document_id": "news/article_02.md",
+    "path": "news/article_02.md",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-talent-skills-and-literacy"
+  },
+  "article_03.json": {
+    "document_id": "news/article_03.md",
+    "path": "news/article_03.md",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
+  },
+  "article_04.json": {
+    "document_id": "news/article_04.md",
+    "path": "news/article_04.md",
+    "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application"
+  },
+  "article_05.json": {
+    "document_id": "news/article_05.md",
+    "path": "news/article_05.md",
+    "url": "https://digital-strategy.ec.europa.eu/en/news/general-purpose-ai-code-practice-now-available"
+  }
+}

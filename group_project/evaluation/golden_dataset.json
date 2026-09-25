@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the main purpose of the EU AI Act?",
+    "expected_answer": "It fosters trustworthy AI in Europe while protecting safety and fundamental rights through risk-based rules.",
+    "expected_context": "The aim of the rules is to foster trustworthy AI in Europe.",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "How many risk levels does the AI Act define?",
+    "expected_answer": "Four: unacceptable, high, transparency, and minimal or no risk.",
+    "expected_context": "The AI Act defines 4 levels of risk for AI systems.",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "Give three examples of prohibited AI practices.",
+    "expected_answer": "Examples include harmful manipulation, social scoring, and untargeted scraping to build facial-recognition databases.",
+    "expected_context": "harmful AI-based manipulation and deception social scoring untargeted scraping of the internet or CCTV material",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "What obligations apply to high-risk AI systems before market placement?",
+    "expected_answer": "They need risk mitigation, high-quality data, logging, documentation, deployer information, human oversight, robustness, cybersecurity, and accuracy.",
+    "expected_context": "adequate risk assessment and mitigation systems high-quality datasets logging detailed documentation appropriate human oversight robustness cybersecurity and accuracy",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "How must chatbots address transparency risk?",
+    "expected_answer": "People must be informed that they are interacting with a machine.",
+    "expected_context": "when using AI systems such as chatbots, humans should be made aware that they are interacting with a machine",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "What kinds of generated content should be visibly labelled?",
+    "expected_answer": "Deepfakes and AI-generated text on matters of public interest should be clearly labelled.",
+    "expected_context": "deep fakes and text published with the purpose to inform the public on matters of public interest",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "What are general-purpose AI models?",
+    "expected_answer": "They are models capable of performing a wide range of tasks and serving as a basis for many AI systems.",
+    "expected_context": "General-purpose AI models can perform a wide range of tasks and are becoming the basis for many AI systems",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "What must providers do for GPAI models with systemic risk?",
+    "expected_answer": "They should assess and mitigate systemic risks.",
+    "expected_context": "For GPAI models that may pose systemic risks, providers should assess and mitigate those risks.",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "Which three chapters make up the GPAI Code of Practice?",
+    "expected_answer": "Transparency, Copyright, and Safety and Security.",
+    "expected_context": "three separately authored chapters: Transparency, Copyright, and Safety and Security",
+    "expected_source": "article_03.json"
+  },
+  {
+    "question": "Who is the Safety and Security chapter relevant to?",
+    "expected_answer": "It is relevant to providers of advanced GPAI models with systemic risk under Article 55.",
+    "expected_context": "Safety and Security is only relevant to providers of the most advanced models subject to obligations for models with systemic risk",
+    "expected_source": "article_03.json"
+  },
+  {
+    "question": "What is the purpose of the Model Documentation Form?",
+    "expected_answer": "It helps signatories compile the information required for model transparency and identify intended recipients.",
+    "expected_context": "Model Documentation Form allows Signatories to easily compile the information and indicates whether information is intended for downstream providers, the AI Office or authorities",
+    "expected_source": "gpai_code_transparency.pdf"
+  },
+  {
+    "question": "How long must previous versions of GPAI model documentation be kept?",
+    "expected_answer": "Previous versions must be kept for 10 years after the relevant version is placed on the market.",
+    "expected_context": "keeping previous versions of the Model Documentation for a period ending 10 years",
+    "expected_source": "gpai_code_transparency.pdf"
+  },
+  {
+    "question": "What copyright policy commitment do GPAI Code signatories make?",
+    "expected_answer": "They commit to draw up, keep up to date, and implement a policy complying with EU copyright and related-rights law.",
+    "expected_context": "Signatories commit to drawing up, keeping up-to-date and implementing such a copyright policy",
+    "expected_source": "gpai_code_copyright.pdf"
+  },
+  {
+    "question": "What does the AI literacy obligation require providers and deployers to do?",
+    "expected_answer": "They must support AI literacy for staff and others operating AI on their behalf, considering knowledge, experience, training, and context.",
+    "expected_context": "take measures to support the development of AI literacy of their staff and other persons dealing with the operation and use of AI systems",
+    "expected_source": "article_02.json"
+  },
+  {
+    "question": "Does Article 4 mandate a specific individual level of AI literacy?",
+    "expected_answer": "No. AI literacy remains an obligation, but no specific or sufficient individual level is mandated.",
+    "expected_context": "AI literacy remains an obligation but no specific or sufficient level is mandated",
+    "expected_source": "article_02.json"
+  }
+]
